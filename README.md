@@ -1,4 +1,4 @@
-Nusra Authorifta
+Nusra Mifta
 Title: Museum Exhibit Description
 
 Description:

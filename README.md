@@ -1,5 +1,6 @@
-Nusra Mifta
-Title: Museum Exhibit Description
+Nusra Mifta 
+
+Title Museum Exhibit Description
 
 Description:
 This exhibit presents a curated collection of historical artifacts, visual materials, and interpretive information designed to help visitors understand the cultural, historical, and artistic significance of the displayed items. Each object in the exhibit tells a story about the people, time period, and environment from which it originates.
